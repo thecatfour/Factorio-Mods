@@ -1,0 +1,9 @@
+{
+    "name": "Regenerating-Wall",
+    "version": "0.1.0",
+    "title": "Regenerating Wall",
+    "author": "hessy2",
+    "factorio_version": "1.1",
+    "depencendies": ["base >= 1.1"],
+    "description": "Adds in a regenerating wall."
+}
