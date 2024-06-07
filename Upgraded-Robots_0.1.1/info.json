@@ -1,0 +1,9 @@
+{
+    "name": "Upgraded-Robots",
+    "version": "0.1.1",
+    "title": "Upgraded Robots",
+    "author": "hessy2",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "Adds an upgraded version of the logistic robot and construction robot. Mod settings allow additional customization of the robots."
+}
