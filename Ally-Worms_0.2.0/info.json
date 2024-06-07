@@ -1,0 +1,9 @@
+{
+	"name": "Ally-Worms",
+	"version": "0.2.0",
+	"title": "Ally Worms",
+	"author": "hessy2",
+	"factorio_version": "1.1",
+	"dependencies": ["base >= 1.1"],
+	"description": "Adds in ally worms to help you defend your base."
+}

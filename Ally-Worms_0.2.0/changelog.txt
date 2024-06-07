@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 9. 6. 2023
+  New:
+    - Ally worms now deal "Rot" damage.
+    - Ally worm health regen is based off of their max health.
+  Balance:
+    - Small and medium ally worms deal less damage overall.
+    - Ally worm costs adjusted.
+    - Ally worm stream attacks changed.
+    - Ally worm acid pools deal less damage but affect movement speed more.
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 22. 5. 2023
+  Info:
+    - Initial release.
+  Features:
+    - Adds small worm, medium worm, big worm, and behemoth worm as turrets for the player.
+    - Adds crafting machine to make the worms and fish.
+    - Adds research to increase the damage of the worm turrets.
