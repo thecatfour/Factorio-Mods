@@ -1,0 +1,1 @@
+data.raw["character"]["character"].inventory_size = data.raw["character"]["character"].inventory_size + settings.startup["inventory-size-increase"].value

@@ -1,0 +1,9 @@
+{
+    "name": "Better-Beginning",
+    "version": "0.3.1",
+    "title": "Better Beginning",
+    "author": "hessy2",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "Gives the player a faster start with starting equipment, starting construction robots, adjustable inventory size, and basic defensive equipment. Mod settings allow additional customization."
+}
