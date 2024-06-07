@@ -1,0 +1,17 @@
+{
+    "name": "Module-Rebalance",
+    "version": "0.1.1",
+    "title": "Module Rebalance",
+    "author": "hessy2",
+    "dependencies":
+    [
+        "base >= 1.1",
+		"? wret-beacon-rebalance-mod",
+        "! bobmodules",
+        "! space-exploration",
+        "! exotic-industries",
+        "! IndustrialRevolution3"
+    ],
+    "description": "Reworks modules to be similar to those in space exploration.",
+    "factorio_version": "1.1"
+}
